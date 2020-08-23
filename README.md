@@ -22,25 +22,25 @@ For most of my projects, I use Javascript, especially with NodeJS :heart: and mo
 <br />
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/javascript.svg" width="75" height="75" />
+	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/javascript.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/react.svg" width="75" height="75" />
+	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/react.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/html.svg" width="75" height="75" />
+	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/html.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/sass.svg" width="75" height="75" />
+	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/sass.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/mongodb.svg" width="75" height="75" />
+	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/mongodb.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/mysql.svg" width="75" height="75" />
+	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/mysql.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/php.svg" width="75" height="75" />
+	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/php.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/api.svg" width="75" height="75" />
+	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/api.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/ubuntu.svg" width="75" height="75" />
+	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/ubuntu.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/bash.svg" width="75" height="75" />
+	<img src="https://raw.githubusercontent.com/mlbonniec/mlbonniec/master/images/bash.svg" width="65" height="65" />
 </p>
 
 <br />
