@@ -1,7 +1,7 @@
 <a href="https://github.com/mlbonniec"><img align="right" src="https://github-readme-stats.vercel.app/api?username=mlbonniec&show_icons=true&hide_border=true" /></a>
 
 ### Hi there 👋 I'm Mathis!
-I'm <b>Mathis</b>, I'm 17, I'm French 🇫🇷, I love new technologies and development. I'm currently a student in high school. I have been practicing development since 2017. In my spare time, I develop websites, applications, programs, Rest API etc.  
+I'm <b>Mathis</b>, I'm 18, I'm French 🇫🇷, I love new technologies and development. I'm currently a student in high school. I have been practicing development since 2017. In my spare time, I develop websites, applications, programs, Rest API etc.  
 To learn more about me, go to [my website](https://mathislebonniec.fr)!
 
 <br />
