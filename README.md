@@ -17,7 +17,7 @@ You can follow me on my networks and find me on my portfolio.
 
 ### Technologies I use
 
-For most of my projects, I use Javascript, especially with NodeJS :heart: and mongodb for databases. On the front side I use React with NextJS. I deploy my projects on my Ubuntu server.
+For most of my projects, I use Javascript, especially with `NodeJS` :heart: and mongodb for databases. On the front side I use `React` and `VueJS` with respectively `NextJS` and `NuxtJS`.
 
 <br />
 
@@ -25,6 +25,8 @@ For most of my projects, I use Javascript, especially with NodeJS :heart: and mo
 	<img src="./images/javascript.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/typescript.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./images/vue.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/react.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
