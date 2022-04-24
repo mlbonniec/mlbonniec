@@ -40,8 +40,6 @@ For most of my projects, I use Javascript, especially with NodeJS :heart: and mo
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/mysql.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/java.svg" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/bash.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/git.svg" width="65" height="65" />
