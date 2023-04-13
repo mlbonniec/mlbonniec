@@ -1,7 +1,7 @@
-<a href="https://github.com/mlbonniec"><img align="right" src="https://github-readme-stats.vercel.app/api?username=mlbonniec&show_icons=true&hide_border=true" /></a>
+<a href="https://github.com/mlbonniec"><img align="right" src="https://github-readme-stats.vercel.app/api?username=mlbonniec&show_icons=true&theme=default" /></a>
 
 ### Hi there 👋 I'm Mathis!
-I'm <b>Mathis</b>, I'm 19, I'm French 🇫🇷. I love new technologies and development. Currently studying at Epitech Technology, I have been practicing development since 2017. I also do some freelance work. In can develop websites, applications, programs, libraries, API etc.  
+I'm <b>Mathis</b>, I'm 20, I'm French 🇫🇷. I love new technologies and development. Currently studying at Epitech Technology, I have been practicing development since 2017. I also do some freelance work. In can develop websites, applications, programs, libraries, API etc.  
 To learn more about me, go to [my website](https://mathislebonniec.fr)!
 
 <br />
