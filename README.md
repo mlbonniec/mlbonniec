@@ -32,8 +32,6 @@ On the client side, I use NuxtJS 3 for web, and Swift (SwiftUI) for Apple platfo
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/nuxtjs.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  	<img src="./images/vue.svg" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/react.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/sass.svg" width="65" height="65" />
@@ -47,8 +45,6 @@ On the client side, I use NuxtJS 3 for web, and Swift (SwiftUI) for Apple platfo
 	<img src="./images/mysql.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/postgresql.svg" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/cpp.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/bash.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
