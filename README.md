@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Mathis
-I'm an Apple platforms (iOS, macOS, iPadOS or WatchOS) and Web freelance developer from France 🇫🇷. 
+I'm an Apple platforms (iOS, macOS, iPadOS, WatchOS, VisionOS) and Web freelance developer from France 🇫🇷. 
 Currently studying programming, I've been practicing development for 6 years.
 
 I got into programming when I wanted to create my own Minecraft server. Having no skills, and even less in Java (the Minecraft language) I turned to a scripting language, called Skript. Much controversial by the Java Minecraft community, it is thanks to it that I learned the basics. Then I moved on to web and mobile development.
