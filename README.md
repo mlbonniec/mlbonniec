@@ -28,9 +28,15 @@ On the client side, I use NuxtJS 3 for web, and Swift (SwiftUI) for Apple platfo
 <br />
 
 <p align="center">
+	<img src="./images/swiftui.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/swift.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/typescript.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/nuxtjs.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/nextjs.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/react.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
