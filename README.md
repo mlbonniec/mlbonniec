@@ -38,23 +38,43 @@ On the client side, I use NuxtJS 3 for web, and Swift (SwiftUI) for Apple platfo
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/nextjs.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/react.svg" width="65" height="65" />
+	<img src="./images/nestjs.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/sass.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/nestjs.svg" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/restful.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/docker.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/mongodb.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/postgresql.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/mysql.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/postgresql.svg" width="65" height="65" />
+	<img src="./images/redis.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/bash.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/git.svg" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/ubuntu.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/figma.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/xd.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/github.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/umami.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/openapi.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/notion.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/mikro-orm.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/graphql.svg" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/actions.svg" width="65" height="65" />
 </p>
