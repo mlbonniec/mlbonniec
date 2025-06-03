@@ -1,7 +1,7 @@
 ### Hi, I'm Mathis.
 ##### Apple Platforms and Web Developer
 
-![3 iPhones Mockups](./cover.png)
+[![3 iPhones Mockups](./cover.png)](https://mathislebonniec.fr)
 
 I'm an Apple platforms and Web freelance developer from France 🇫🇷. I'm currently studying software programming at EPITECH France. I've had the opportunity to spend a study abroad year in Long Beach, California at CSULB.
 
