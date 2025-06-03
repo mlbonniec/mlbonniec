@@ -11,10 +11,10 @@ I've been interning as an iOS Developer at [Leocare](https://leocare.eu) and as 
 
 Discover more about my work and projects on my portfolio at [mathislebonniec.fr](https://mathislebonniec.fr).
 
-#### My recent projects
+#### My recent open-source projects
 
 * [OnBoardingKit](https://github.com/mlbonniec/OnBoardingKit) - Apple OnBoarding views Swift Package with a TipKit like architecture.
-* [AnimatedNavigationTitle](https://github.com/mlbonniec/AnimatedNavigationTitle) - A SwiftUI package that helps you to recreate X, Github and Reddit animated navigation title scrolling effect..
+* [AnimatedNavigationTitle](https://github.com/mlbonniec/AnimatedNavigationTitle) - A SwiftUI package that helps you to recreate X, Github and Reddit animated navigation title scrolling effect.
 
 #### Get in touch
 * [Portfolio](https://mathislebonniec.fr)
