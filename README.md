@@ -1,11 +1,12 @@
 ### Hi, I'm Mathis.
-##### Apple Platforms and Web Developer
+##### iOS Engineer at Withings
 
 [![3 iPhones Mockups](./cover.png)](https://mathislebonniec.fr)
 
-I'm an Apple platforms and Web freelance developer from France 🇫🇷. I'm currently studying software programming at EPITECH France. I've had the opportunity to spend a study abroad year in Long Beach, California at CSULB.
+I'm an iOS Engineer from France 🇫🇷 currently working on making health data more accessible at [Withings](https://withings.com).  
+I'm studying software engineering at EPITECH France, and I've had the opportunity to spend a study abroad year in Long Beach, California at CSULB.
 
-I love building new things, working on Swift applications, libraries etc.
+I love building new things, being creative, working on Swift applications, libraries etc.
 
 I've been interning as an iOS Developer at [Leocare](https://leocare.eu) and as a Web Developer at [Paladium](https://paladium-pvp.fr).
 
