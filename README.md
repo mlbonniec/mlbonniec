@@ -14,6 +14,7 @@ Discover more about my work and projects on my portfolio at [mathislebonniec.fr]
 
 #### My recent open-source projects
 
+* [QuickActionsKit](https://github.com/mlbonniec/QuickActionsKit) - A lightweight Swift library for configuring and handling Home Screen Quick Actions with minimal setup.
 * [OnBoardingKit](https://github.com/mlbonniec/OnBoardingKit) - Apple OnBoarding views Swift Package with a TipKit like architecture.
 * [AnimatedNavigationTitle](https://github.com/mlbonniec/AnimatedNavigationTitle) - A SwiftUI package that helps you to recreate X, Github and Reddit animated navigation title scrolling effect.
 
